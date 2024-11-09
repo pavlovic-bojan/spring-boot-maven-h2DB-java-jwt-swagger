@@ -2,7 +2,7 @@
 
 This repository is the result of my independent project to train certain things in Spring Boot & REST API Backend Development.
 
-The goal of the project is to clone the basic backend functionality of the most popular web app for blogging [WordPress](https://wordpress.org/) for the purpose of learning back-end REST API development.
+The goal of the project is to clone the basic backend functionality of the most popular web app for blogging [WordPress](https://wordpress.org/) for the purpose of learning back-end RESTfull API development.
 
 Side information: To use the application in a special environment the author accepts no responsibility if you cause damage to third parties.
 
@@ -20,7 +20,7 @@ Side information: To use the application in a special environment the author acc
 * [JWT jsonwebtoken](https://github.com/jwtk/jjwt): Version "0.12.3"
 * [Swagger](https://swagger.io/): Version "2.6.0"
 
-Feel free to copy the project from this repository into your IDE and run the app, and make sure everything works.
+Feel free to copy the project from this repository into your IDE & run the app, and make sure everything works.
 
 ### Collaboration
 ***
