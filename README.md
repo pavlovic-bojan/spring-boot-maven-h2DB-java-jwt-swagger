@@ -1,4 +1,4 @@
-# Blogging REST API App (spring-boot-maven-h2DB-java-jwt-swagger)
+# Blogging REST API App
 
 This repository is the result of my independent project to train certain things in Spring Boot & REST API Backend Development.
 
