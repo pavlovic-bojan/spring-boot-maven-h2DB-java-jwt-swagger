@@ -1,0 +1,19 @@
+# Build output
+/target/
+
+# Environment variable secret
+.env
+
+# IDE/editor folders
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+**/.DS_Store
+**/Thumbs.db
+._*            # Mac hidden files
+
+# Logs
+*.log
