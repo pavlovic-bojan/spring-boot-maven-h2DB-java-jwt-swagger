@@ -16,7 +16,7 @@ Side information: To use the application in a special environment the author acc
 * [Spring Boot](https://spring.io/projects/spring-boot): Version "3.3.5"
 * [Maven](https://maven.apache.org/): Version POM "4.0.0"
 * [H2 Data Base](https://www.h2database.com/html/main.html): Version "2.3.232"
-* [Java](https://www.java.com/en/): Openjdk version "21"
+* [Java](https://www.java.com/en/): Openjdk Version "21"
 * [JWT jsonwebtoken](https://github.com/jwtk/jjwt): Version "0.12.3"
 * [Swagger](https://swagger.io/): Version "2.6.0"
 
